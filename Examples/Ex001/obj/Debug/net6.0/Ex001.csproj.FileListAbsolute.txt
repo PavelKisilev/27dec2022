@@ -1,0 +1,15 @@
+C:\02_Study\01_Git\Examples\Ex001\bin\Debug\net6.0\Ex001.exe
+C:\02_Study\01_Git\Examples\Ex001\bin\Debug\net6.0\Ex001.deps.json
+C:\02_Study\01_Git\Examples\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+C:\02_Study\01_Git\Examples\Ex001\bin\Debug\net6.0\Ex001.dll
+C:\02_Study\01_Git\Examples\Ex001\bin\Debug\net6.0\Ex001.pdb
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.dll
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.pdb
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+C:\02_Study\01_Git\Examples\Ex001\obj\Debug\net6.0\ref\Ex001.dll
